@@ -6,7 +6,7 @@ article of [TProger](https://vk.com/@itcookies-sozdaem-prostuu-igru-na-vanilla-j
 
 ### Screenshot
 
-![Screenshot](./img/screshot.png);
+![Screenshot](./img/screenshot.png);
 
 ---
 
